@@ -1,0 +1,15 @@
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\obj\Debug\net6.0\consoleapps.csproj.AssemblyReference.cache
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\obj\Debug\net6.0\consoleapps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\obj\Debug\net6.0\consoleapps.AssemblyInfoInputs.cache
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\obj\Debug\net6.0\consoleapps.AssemblyInfo.cs
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\obj\Debug\net6.0\consoleapps.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\bin\Debug\net6.0\consoleapps.exe
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\bin\Debug\net6.0\consoleapps.deps.json
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\bin\Debug\net6.0\consoleapps.runtimeconfig.json
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\bin\Debug\net6.0\consoleapps.dll
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\bin\Debug\net6.0\consoleapps.pdb
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\obj\Debug\net6.0\consoleapps.dll
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\obj\Debug\net6.0\refint\consoleapps.dll
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\obj\Debug\net6.0\consoleapps.pdb
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\obj\Debug\net6.0\consoleapps.genruntimeconfig.cache
+C:\Users\Muhammad Haikal\OneDrive\Desktop\New folder\consoleapps\obj\Debug\net6.0\ref\consoleapps.dll
